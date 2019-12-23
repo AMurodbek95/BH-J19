@@ -1,6 +1,6 @@
 package by.belhard.j19.homeworks.homework4.homeworks5.wardrobe;
 
-public class Wardrode {
+public class Wardrode {/*
     private Clothes[] shelves;
 
     public Wardrobe(int shelvesNumber) {
@@ -9,7 +9,6 @@ public class Wardrode {
 
         this.shelves = new Clothes[shelvesNumber];
     }
-
     public void putOnShelf(Clothes clothes, int shelf) {
 
         if (shelf < 0 || shelf >= shelves.length) {
@@ -63,8 +62,8 @@ public class Wardrode {
                     shelves[i] == null ? "*nothing*" : shelves[i].getTitle());
         }
         System.out.println("--- -------- ---\n");
-    }
+    }*/
 
 
 }
-}
+
